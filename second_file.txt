@@ -1,6 +1,2 @@
-first_line
-third_line
-fifth_line
-sixth_line...
-seventh_line
-eighth_line
+first_line...
+second_line
